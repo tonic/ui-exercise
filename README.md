@@ -4,6 +4,25 @@ We've put together a small React todo application that we'd like you to design o
 
 Feel free to change markup at your preference. And, of course, use any resources that you would normally have at your disposal (Google, Stack Overflow, etc.). If you have questions, don't hesitate to [contact us](mailto:developer@hellotonic.com).
 
+## System Requirements
+
+* Node
+* npm
+
+## Getting Started
+
+Install dependencies:
+
+```bash
+$ npm install
+```
+
+Run development server:
+
+```bash
+$ npm start
+```
+
 ## Minimum Requirements
 
 There are no specific requirements of what we're looking for. However, your design should demonstrate knowledge of CSS frameworks, SCSS, and UX design patterns. Ideally your project should fulfill the following:
